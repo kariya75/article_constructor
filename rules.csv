@@ -1,0 +1,12 @@
+﻿rule,parameter,condition_parameter,condition_value,min_value,max_value,step,description
+range,max_power,,,50,400,50,Максимальная заводская мощность
+range,installed_power,,,20,400,2,Установленная мощность вводится пользователем
+max_by_parameter,installed_power,max_power,,,,2,Установленная мощность не может превышать максимальную
+allowed_values,lamps,model,Шпинель,,,,"Для Шпинели доступны 1, 2 и 3 плафона"
+hidden,lamps,model,Оникс,,,,Для Оникса количество плафонов не используется
+range,angle,lens,Д,15,180,5,Угол линзы Д
+range,angle,lens,К,15,55,5,Угол линзы К
+range,angle,lens,Г,60,90,5,Угол линзы Г
+range,angle,lens,Ш,100,180,5,Угол линзы Ш
+allowed_values,shb_size,lens,ШБ,,,,Для ШБ доступны значения 50 и 75
+format,lens,lens,ШБ,,,,ШБ + угол + * + дополнительная боковая линза

@@ -1,0 +1,13 @@
+﻿parameter,name,input_type,required
+model,Модель,select,True
+max_power,Мощность максимальная,select,True
+installed_power,Мощность установленная,number,True
+cri,Индекс цветопередачи,select,True
+cct,Цветовая температура,select,True
+ip,Степень защиты,select,True
+mounting,Крепление,select,True
+lamps,Количество плафонов,select,True
+glass,Тип стекла,select,True
+lens,Тип линзы,select,True
+angle,Угол линзы,select,True
+shb_size,Дополнительная боковая линза,select,False

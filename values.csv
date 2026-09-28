@@ -1,0 +1,31 @@
+﻿parameter,value,display,article_value
+model,Шпинель,Шпинель,ШПИНЕЛЬ
+model,Оникс,Оникс,ОНИКС
+cri,70,Ra70,Ra70
+cri,80,Ra80,Ra80
+cri,90,Ra90,Ra90
+cct,3000,3000 К,3000К
+cct,4000,4000 К,4000К
+cct,5000,5000 К,5000К
+ip,66,IP66,ip66
+ip,67,IP67,ip67
+ip,68,IP68,ip68
+mounting,1,Консоль,1
+mounting,2,Кронштейн,2
+mounting,3,Подвесное (трос),3
+mounting,5,Поворотное (лира),5
+mounting,6,Накладное,6
+mounting,11,Грунт,11
+mounting,12,Универсальное (консоль/кронштейн),12
+lamps,1,1,I
+lamps,2,2,II
+lamps,3,3,III
+glass,Прозрачный,Прозрачный,ПРОЗ
+glass,Опал,Опал,ОПАЛ
+lens,Д,Д,Д
+lens,Г,Г,Г
+lens,К,К,К
+lens,Ш,Ш,Ш
+lens,ШБ,ШБ,ШБ
+shb_size,50,50,50
+shb_size,75,75,75
